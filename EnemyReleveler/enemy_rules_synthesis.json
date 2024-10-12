@@ -1,11 +1,11 @@
 {
   "BanditFaction": [
     [1, 28],
-    [4, 16]
+    [4, 48]
   ],
   "DraugrFaction": [
     [1, 45],
-    [16, 45]
+    [12, 60]
   ],
   "DLC2CultistFaction": [
     [1, 46],
@@ -41,15 +41,15 @@
   ],
   "TrollFaction": [
     [14, 22],
-    [20, 28]
+    [20, 42]
   ],
   "SpiderFaction": [
     [1, 17],
-    [1, 6]
+    [1, 24]
   ],
   "DLC1UndeadGuardianFaction": [
     [13, 43],
-    [40, 64]
+    [36, 64]
   ],
   "HagravenFaction": [
     [4, 20],
@@ -61,11 +61,11 @@
   ],
   "GiantFaction": [
     [30, 90],
-    [60, 90]
+    [48, 90]
   ],
   "IceWraithFaction": [
     [1, 9],
-    [12, 20]
+    [12, 24]
   ],
   "MammothFaction": [
     [1, 38],
@@ -73,7 +73,7 @@
   ],
   "DragonFaction": [
     [10, 100],
-    [40, 100]
+    [24, 120]
   ],
   "SabreCatFaction": [
     [6, 12],
@@ -93,11 +93,11 @@
   ],
   "SprigganFaction": [
     [1, 30],
-    [8, 21]
+    [8, 40]
   ],
   "WerewolfFaction": [
     [1, 42],
-    [30, 58]
+    [18, 58]
   ],
   "WispFaction": [
     [1, 28],
@@ -105,31 +105,31 @@
   ],
   "ForswornFaction": [
     [1, 51],
-    [8, 18]
+    [8, 64]
   ],
   "WarlockFaction": [
     [1, 50],
-    [24, 46]
+    [18, 54]
   ],
   "VampireFaction": [
     [1, 65],
-    [36, 64]
+    [21, 64]
   ],
   "DLC1VampireFaction": [
     [1, 60],
-    [42, 72]
+    [36, 72]
   ],
   "ThalmorFaction": [
     [4, 50],
-    [20, 45]
+    [16, 64]
   ],
   "OrcFriendFaction": [
     [1, 30],
-    [6, 28]
+    [6, 36]
   ],
   "MS08AlikrFaction": [
     [1, 44],
-    [14, 22]
+    [14, 56]
   ],
   "DLC1HunterFaction": [
     [5, 50],
@@ -165,11 +165,11 @@
   ],
   "VigilantOfStendarrFaction": [
     [5, 30],
-    [18, 27]
+    [18, 36]
   ],
   "SilverHandFaction": [
     [1, 28],
-    [11, 23]
+    [11, 33]
   ],
   "CWImperialFaction": [
     [1, 10],
